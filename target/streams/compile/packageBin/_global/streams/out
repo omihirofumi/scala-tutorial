@@ -1,0 +1,25 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/omihirofumi/Documents/program/code/scala/HelloWorld/target/scala-3.3.0/helloworld_3-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Hello$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/omihirofumi/Documents/program/code/scala/HelloWorld/target/scala-3.3.0/classes/Hello$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Hello.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/omihirofumi/Documents/program/code/scala/HelloWorld/target/scala-3.3.0/classes/Hello.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/omihirofumi/Documents/program/code/scala/HelloWorld/target/scala-3.3.0/classes/example[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/Main.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/omihirofumi/Documents/program/code/scala/HelloWorld/target/scala-3.3.0/classes/example/Main.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/omihirofumi/Documents/program/code/scala/HelloWorld/target/scala-3.3.0/classes/example/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Hello.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/omihirofumi/Documents/program/code/scala/HelloWorld/target/scala-3.3.0/classes/Hello.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/omihirofumi/Documents/program/code/scala/HelloWorld/target/scala-3.3.0/classes/Main$package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/omihirofumi/Documents/program/code/scala/HelloWorld/target/scala-3.3.0/classes/Main$package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	run.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/omihirofumi/Documents/program/code/scala/HelloWorld/target/scala-3.3.0/classes/run.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$package.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/omihirofumi/Documents/program/code/scala/HelloWorld/target/scala-3.3.0/classes/Main$package.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	run.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/omihirofumi/Documents/program/code/scala/HelloWorld/target/scala-3.3.0/classes/run.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
